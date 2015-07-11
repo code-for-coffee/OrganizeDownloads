@@ -1,0 +1,7 @@
+{
+  "sortModel": {
+    "*.pdf,*.doc,*.docx": "~/Documents",
+    "*.mov,*.avi,*.swf,*.mp4": "~/Movies",
+    "*.mp3,*.flac,*.ogg": "~/Music"
+  }
+}
